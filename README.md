@@ -1,4 +1,4 @@
-**Modified Version of catalina installer**![Modified-Version-of-catalina-installer]https://lh6.googleusercontent.com/9mIMzp-BwO_Jl3PMlT6rqnWRaSIXnlWrxMlOVMCGV_nwPENnWEGIMFTJBub5Rendla7ccaijWCGUs1p6FosC=w1920-h912-rw]
+**Modified Version of catalina installer**![Modified Version of catalina installer](Modified-Version-of-catalina-installer]https://lh6.googleusercontent.com/9mIMzp-BwO_Jl3PMlT6rqnWRaSIXnlWrxMlOVMCGV_nwPENnWEGIMFTJBub5Rendla7ccaijWCGUs1p6FosC=w1920-h912-rw)
 
 ## Supported Versions
 
